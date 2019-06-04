@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pmcmahon14/webpack-project/issues"
   },
-  "homepage": "https://github.com/pmcmahon14/webpack-project#readme"
+  "homepage": "https://github.com/pmcmahon14/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^4.33.0",
+    "webpack-dev-server": "^3.5.1"
+  }
 }
